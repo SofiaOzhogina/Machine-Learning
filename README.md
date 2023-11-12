@@ -1,2 +1,2 @@
 # Machine-Learning
-This repository contains the code I created while learning the basics of machine learning
+This repository showcases the code I developed while learning the basics of machine learning during my undergraduate Machine Learning course.
